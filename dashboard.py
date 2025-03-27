@@ -180,8 +180,8 @@ def main():
     """)
     
     # Sidebar for visualization controls
-    st.image("recuLogo.png", width=120)
     st.sidebar.header("📊 Visualization Settings")
+       st.image("recuLogo.png", width=120)
     
     
     # File uploader
