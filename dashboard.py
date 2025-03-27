@@ -180,7 +180,9 @@ def main():
     """)
     
     # Sidebar for visualization controls
+    st.image("recuLogo.png", width=120)
     st.sidebar.header("📊 Visualization Settings")
+    
     
     # File uploader
     uploaded_file = st.sidebar.file_uploader("Upload CSV File", type=["csv"])
