@@ -164,7 +164,7 @@ def main():
     
     # Informative Introduction
     st.markdown("""
-    ### 🚀 InsightEase: Your HR Data Insights Companion
+    ### 🚀  RecruitEase: Your HR Data Insights Companion
     
     RecruitEase is a powerful, user-friendly HR analytics platform designed to transform raw HR data into meaningful insights. Our dashboard empowers HR professionals and data analysts to:
 
