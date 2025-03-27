@@ -160,7 +160,7 @@ def main():
     """, unsafe_allow_html=True)
     
     # Introduction and Overview
-    st.markdown('<div class="main-title">InsightEase: HR Analytics Dashboard</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-title"> RecruitEase: HR Analytics Dashboard</div>', unsafe_allow_html=True)
     
     # Informative Introduction
     st.markdown("""
