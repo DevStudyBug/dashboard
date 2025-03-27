@@ -168,9 +168,9 @@ def main():
     
     RecruitEase is a powerful, user-friendly HR analytics platform designed to transform raw HR data into meaningful insights. Our dashboard empowers HR professionals and data analysts to:
 
-    - 📊 **Visualize Complex Data**: Create intuitive charts and graphs
-    - 🔍 **Gain Deep Insights**: Analyze workforce trends and patterns
-    - 🤖 **Smart Analytics**: Get intelligent insights with our integrated AI
+    - 📊 *Visualize Complex Data*: Create intuitive charts and graphs
+    - 🔍 *Gain Deep Insights*: Analyze workforce trends and patterns
+    - 🤖 *Smart Analytics*: Get intelligent insights with our integrated AI
     
     ### How to Use:
     1. 📤 Upload your CSV file
